@@ -21,8 +21,8 @@ If you enjoy my content, I would be very happy if you [subscribe](https://www.yo
 [![Catalin's GitHub stats](https://github-readme-stats.vercel.app/api?username=Mauriceanney&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
 
 
-[youtube]: http://youtube.com/c/pythonengineer
-[website]: https://www.python-engineer.com/
+[youtube]: http://youtube.com
+[website]: https://www.python-engineer.com/](https://fullstackdaily.dev/
 
 
 ---
