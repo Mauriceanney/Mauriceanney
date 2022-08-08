@@ -22,7 +22,7 @@ If you enjoy my content, I would be very happy if you [subscribe](https://www.yo
 
 
 [youtube]: http://youtube.com
-[website]: https://www.python-engineer.com/](https://fullstackdaily.dev/
+[website]: https://fullstackdaily.dev/
 
 
 ---
