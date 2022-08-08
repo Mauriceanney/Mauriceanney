@@ -2,6 +2,7 @@
 [<img height="30" src = "https://img.shields.io/badge/Youtube-%23E4405F.svg?&style=for-the-badge&logo=Youtube&logoColor=white">][Youtube] 
 [<img height="30" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
 
+
 ## I'm a Software Engineer and YouTuber
 
 - Creator of the [FuyllstackDaily][youtube] YouTube channel 
@@ -11,14 +12,13 @@
 - If you want to connet with more Java enthusiasts you can join my [Discord server][discord]
 - For most tutorials the corresponding code is here on GitHub
 
-If you enjoy my content, I would be very happy if you [subscribe](https://www.youtube.com/channel/UCbXgNpp0jedKWcQiULLbDTA?sub_confirmation=1) to my channel 😊
 
 
 ## My GitHub Stats 💻
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Mauriceanney&hide=html,css&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Mauriceanney&hide=html,css&theme=dracula&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
 
-[![Catalin's GitHub stats](https://github-readme-stats.vercel.app/api?username=Mauriceanney&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
+[![Catalin's GitHub stats](https://github-readme-stats.vercel.app/api?username=Mauriceanney&theme=dracula&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
 
 
 [youtube]: http://youtube.com
